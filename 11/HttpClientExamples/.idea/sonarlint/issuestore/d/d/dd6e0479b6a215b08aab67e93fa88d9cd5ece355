@@ -1,0 +1,26 @@
+
+Xsquid:S1075‡"ARefactor your code to get this URI from a customizable parameter.(®É^
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ã¥ÛŸøÿÿÿÿ
+]squid:S1075g"ARefactor your code to get this URI from a customizable parameter.(°óŸÐúÿÿÿÿ
+nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(Äú®®þÿÿÿÿ8îú€¥î,
+^squid:S1075’"ARefactor your code to get this URI from a customizable parameter.(¦®þ¾ÿÿÿÿÿ
+gsquid:S00100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹×ºÒ
+jsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(ª™¨¹8ùÇÌ£î,
+ysquid:S2629æ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(±§ˆèþÿÿÿÿ
+_squid:S00112©"FDefine and throw a dedicated exception instead of using a generic one.(åÀ±
+bsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(Ÿ°¾·
+^squid:S1075“"ARefactor your code to get this URI from a customizable parameter.(äÚ‹Âÿÿÿÿÿ
+P
+squid:S106—"9Replace this use of System.out or System.err by a logger.( á’Æ
+T
+squid:S106r"9Replace this use of System.out or System.err by a logger.(ÏøÔÙøÿÿÿÿ
+]squid:S1075{"ARefactor your code to get this URI from a customizable parameter.(¬ýñ¦ùÿÿÿÿ
+Psquid:S1612œ",Replace this lambda with a method reference.(Ý½ï«üÿÿÿÿ8¯¾è£î,
+dsquid:S00112Ë"FDefine and throw a dedicated exception instead of using a generic one.(¿‹ÓÓûÿÿÿÿ
+7squid:S2068M" Remove this hard-coded password.(½Ø¾ƒ
+bsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(Ÿ°¾·
+bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(þ¡ß·
+bsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(‚‘èÍ
+Dsquid:S1612›",Replace this lambda with a method reference.(§£Õ¶
+_squid:S00112Ý"FDefine and throw a dedicated exception instead of using a generic one.(ØÓª¦
+Isquid:S1612Ç",Replace this lambda with a method reference.(ßÙáúýÿÿÿÿ
