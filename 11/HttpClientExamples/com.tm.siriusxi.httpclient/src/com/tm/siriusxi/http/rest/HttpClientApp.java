@@ -423,9 +423,9 @@ public final class HttpClientApp {
      * which is the default on macOS.
      * <p>
      * {@code
-     * HttpClient.newBuilder()
-     * .proxy(ProxySelector.getDefault())
-     * .build();
+     *     HttpClient.newBuilder()
+     *          .proxy(ProxySelector.getDefault())
+     *          .build();
      * }
      *
      * @param uri
