@@ -1,0 +1,15 @@
+/open Person.java
+
+Person person
+
+person = new Person()
+
+new Person()
+
+person.setName("Taman")
+
+person.getName()
+
+System.out.println(person.getName())
+
+String name = person.getName();
