@@ -7,6 +7,6 @@ public class HelloWorld{
 
         var name = args[0];
         
-        System.out.printf("Hello %s to IBM DeveloperWorks World!! %n", name);
+        System.out.printf("Hello %s to IBM Developer World!! %n", name);
     }
 }
