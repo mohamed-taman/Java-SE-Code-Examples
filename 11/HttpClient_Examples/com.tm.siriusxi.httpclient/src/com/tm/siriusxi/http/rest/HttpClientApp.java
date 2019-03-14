@@ -86,7 +86,7 @@ public final class HttpClientApp {
 
         var request = newBuilder()
                 .uri(create("https://postman-echo.com/get/"))
-                .headers("IBM", "Developers Work", "Author", "Mohamed Taman")
+                .headers("IBM", "Developer", "Author", "Mohamed Taman")
                 .version(HttpClient.Version.HTTP_1_1)
                 .timeout(Duration.of(10, SECONDS))
                 .GET()
