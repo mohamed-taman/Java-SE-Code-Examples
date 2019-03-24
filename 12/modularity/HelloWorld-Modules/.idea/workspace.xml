@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="eg.com.taman.client:jar" />
+      <artifact name="eg.com.taman.widget:jar" />
+      <artifact name="eg.org.taman.data:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0df0854e-a18b-4990-ad70-dccb2acccd14" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/sonarlint/issuestore/0/6/060f7c5d6a0f0c0dd1fe0724762bb322578e4049" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/sonarlint/issuestore/3/a/3a23de387b31f209cdd737d859ccc6b81011b5b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/eg.com.taman.hello/eg.com.taman.hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/eg.com.taman.hello/src/eg/com/taman/hello/HelloWorldApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld-Module/eg.com.taman.hello/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/eg_com_taman_client_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/eg_com_taman_widget_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/eg_org_taman_data_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.com.taman.client/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.com.taman.client/eg.com.taman.client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.com.taman.client/src/eg/com/taman/main/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.com.taman.client/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.com.taman.widget/eg.com.taman.widget.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.com.taman.widget/src/eg/com/taman/renderer/SimpleRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.com.taman.widget/src/eg/com/taman/support/RendererSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.com.taman.widget/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.org.taman.data/eg.org.taman.data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.org.taman.data/src/eg/org/taman/data/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.org.taman.data/src/eg/org/taman/data/type/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg.org.taman.data/src/module-info.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloWorld-Modules" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eg.com.taman.client/src/eg/com/taman/main/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eg.org.taman.data/src/eg/org/taman/data/type/Type.java" />
+        <option value="$PROJECT_DIR$/eg.org.taman.data/src/module-info.java" />
+        <option value="$PROJECT_DIR$/eg.org.taman.data/src/eg/org/taman/data/Message.java" />
+        <option value="$PROJECT_DIR$/eg.com.taman.widget/src/eg/com/taman/support/RendererSupport.java" />
+        <option value="$PROJECT_DIR$/eg.com.taman.widget/src/eg/com/taman/renderer/SimpleRenderer.java" />
+        <option value="$PROJECT_DIR$/eg.com.taman.client/src/module-info.java" />
+        <option value="$PROJECT_DIR$/eg.com.taman.widget/src/module-info.java" />
+        <option value="$PROJECT_DIR$/eg.com.taman.client/src/eg/com/taman/main/Client.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/qaplug_profiles.xml" />
+        <option value="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+        <option value="$PROJECT_DIR$/.idea/google-java-format.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+        <option value="$PROJECT_DIR$/.idea/sonarIssues.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>ArquillianJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber Java</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME SupportJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWorld-Modules" type="58d84e3e:PackageViewProjectNode" />
+              <item name="eg" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="58d84e3e:PackageViewProjectNode" />
+              <item name="eg" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="com" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="58d84e3e:PackageViewProjectNode" />
+              <item name="eg" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="com" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="taman" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="taman" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="taman" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="eg.com.taman.client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="taman" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="eg.com.taman.client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="taman" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="eg.com.taman.client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="taman" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="eg.com.taman.widget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="org" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="org" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="taman" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="org" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="taman" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="eg.org.taman.data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld-Modules" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eg" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="org" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="taman" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="eg.org.taman.data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Production">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="org" type="cbb8eebc:String" user="org" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+              <item name="widget" type="cbb8eebc:String" user="widget" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+              <item name="widget" type="cbb8eebc:String" user="widget" />
+              <item name="eg.com.taman.widget" type="cbb8eebc:String" user="eg.com.taman.widget" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+              <item name="widget" type="cbb8eebc:String" user="widget" />
+              <item name="eg.com.taman.widget" type="cbb8eebc:String" user="eg.com.taman.widget" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+              <item name="widget" type="cbb8eebc:String" user="widget" />
+              <item name="eg.com.taman.widget" type="cbb8eebc:String" user="eg.com.taman.widget" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="eg/com/taman" type="cbb8eebc:String" user="eg/com/taman" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+              <item name="client" type="cbb8eebc:String" user="client" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+              <item name="client" type="cbb8eebc:String" user="client" />
+              <item name="eg.com.taman.client" type="cbb8eebc:String" user="eg.com.taman.client" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="eg" type="cbb8eebc:String" user="eg" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="taman" type="cbb8eebc:String" user="taman" />
+              <item name="client" type="cbb8eebc:String" user="client" />
+              <item name="eg.com.taman.client" type="cbb8eebc:String" user="eg.com.taman.client" />
+              <item name="META-INF" type="cbb8eebc:String" user="META-INF" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="Java 9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24472961" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="eg.com.taman.type" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="eg.org.taman.data.type" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eg.com.taman.main.Client" />
+      <module name="eg.com.taman.client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.com.taman.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0df0854e-a18b-4990-ad70-dccb2acccd14" name="Default" comment="" />
+      <created>1515850705586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515850705586</updated>
+      <workItem from="1515850709745" duration="14289000" />
+      <workItem from="1516400379703" duration="7470000" />
+      <workItem from="1516409376203" duration="123000" />
+      <workItem from="1517410231579" duration="372000" />
+      <workItem from="1517485177049" duration="80000" />
+      <workItem from="1517618859770" duration="1200000" />
+      <workItem from="1517622656755" duration="625000" />
+      <workItem from="1517623633972" duration="1030000" />
+      <workItem from="1517625304778" duration="713000" />
+      <workItem from="1553425205723" duration="1849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27751000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
+    <layout>
+      <window_info id="DB Browser" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.34314775" />
+      <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" weight="0.23233405" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50174826" side_tool="true" weight="0.23233405" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Analysis" />
+      <window_info anchor="bottom" id="Run with VisualVM" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="SonarQube" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Debug with VisualVM" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4978701" weight="0.32971016" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5299786" weight="0.36231884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6194631" weight="0.27090302" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5256959" side_tool="true" weight="0.30921054" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.47430408" weight="0.24860647" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Jenkins" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Quick Notes" />
+      <window_info anchor="right" id="Snyk" side_tool="true" />
+      <window_info anchor="right" id="Connector for AWS Lambda" side_tool="true" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Coding Counter" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" x="100" y="100" width="1720" height="1000" id="DSM" order="4" type="FLOATING" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Module Dependencies" order="6" weight="0.2736954" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
+    <entry file="uml://JIGSAW/eg.org.taman.data">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>eg.org.taman.data</OriginalElement>
+          <nodes>
+            <node x="9.5" y="158.0">eg.org.taman.data</node>
+            <node x="0.0" y="79.0">eg.com.taman.widget</node>
+            <node x="4.0" y="0.0">eg.com.taman.client</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="eg.com.taman.widget" target="eg.com.taman.client">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="eg.org.taman.data" target="eg.com.taman.widget">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.8000000000000007" x="-172.0" y="53.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.com.taman.client/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="36" lean-forward="true" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/eg.com.taman.client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>eg.com.taman.client</OriginalElement>
+          <nodes>
+            <node x="5.0" y="0.0">eg.com.taman.client</node>
+            <node x="12.0" y="172.0">eg.org.taman.data</node>
+            <node x="0.0" y="86.0">eg.com.taman.widget</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="eg.com.taman.widget" target="eg.com.taman.client">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="eg.org.taman.data" target="eg.com.taman.widget">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.4000000000000004" x="104.0" y="136.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.org.taman.data/src/eg/org/taman/data/type/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.com.taman.widget/src/eg/com/taman/support/RendererSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.com.taman.widget/src/eg/com/taman/renderer/SimpleRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.com.taman.widget/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.com.taman.client/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.org.taman.data/src/eg/org/taman/data/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.org.taman.data/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eg.com.taman.client/src/eg/com/taman/main/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>eg.com.taman.widget:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24472961" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24472961" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24472961" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>org.taman.data|eg</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24472961" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24472961" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="eg.com.taman.client:jar">
+    <output-path>$PROJECT_DIR$/mlib</output-path>
+    <root id="archive" name="eg.com.taman.client.jar">
+      <element id="module-output" name="eg.com.taman.client" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/eg.com.taman.client/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

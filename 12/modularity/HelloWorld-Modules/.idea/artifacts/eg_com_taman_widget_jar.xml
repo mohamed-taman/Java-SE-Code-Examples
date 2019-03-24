@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="eg.com.taman.widget:jar">
+    <output-path>$PROJECT_DIR$/mlib</output-path>
+    <root id="archive" name="eg.com.taman.widget.jar">
+      <element id="module-output" name="eg.com.taman.widget" />
+    </root>
+  </artifact>
+</component>
