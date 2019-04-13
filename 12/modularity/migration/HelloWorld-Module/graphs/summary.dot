@@ -1,0 +1,3 @@
+digraph "summary" {
+  "eg.com.taman.hello"                               -> "java.base (java.base)";
+}

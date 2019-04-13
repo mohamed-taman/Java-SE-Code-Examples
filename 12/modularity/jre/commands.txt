@@ -1,0 +1,25 @@
+Using jlink tool - create a custom runtime images
+
+1- Compile
+ $ javac --module-source-path src -d mods -m eg.com.taman.hello
+
+2- Run
+ $ java --module-path mods -m eg.com.taman.hello/eg.com.taman.hello.HelloWorldApp 
+
+3- Create custom runtime image
+  3.1- On windows
+     $ jlink --module-path mods;"%JAVA_HOME%"\jmods --add-modules eg.com.taman.hello --output HelloWorldJRE 
+  3.2- On linux/macOS
+     $ jlink --module-path mods;"$JAVA_HOME"/jmods --add-modules eg.com.taman.hello --output HelloWorldJRE
+
+4- Navigate the new created folder
+  $ cd HelloWorldJRE\bin
+
+5- Run the new Hello World from within custom runtime images just created
+$ java -m eg.com.taman.hello/eg.com.taman.hello.HelloWorldApp
+
+6- List our JRE modules
+$ java --list-modules
+
+7- Using module resolver
+$ java -Xdiag:resolver -m eg.com.taman.hello

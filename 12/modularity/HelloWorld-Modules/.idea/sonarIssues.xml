@@ -8,6 +8,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/eg.com.taman.client/src/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eg.com.taman.widget/src/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eg.org.taman.data/src/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

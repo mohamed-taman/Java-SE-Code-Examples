@@ -1,0 +1,2 @@
+JAVA_VERSION="12"
+MODULES="java.base eg.com.taman.hello"

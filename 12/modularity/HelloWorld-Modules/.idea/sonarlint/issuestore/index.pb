@@ -15,3 +15,7 @@ V
 &eg.org.taman.data/src/module-info.java,b/d/bda7ff2cdb4fbb341c68001b3dec14e63f112a27
 e
 5eg.com.taman.client/src/eg/com/taman/main/Client.java,4/f/4f3f9ba9bc142d0a59b2c3a78fd269c8b2c51b11
+X
+(eg.com.taman.client/META-INF/MANIFEST.MF,c/d/cd128e6a6db8a7cd85075201c94fa1436fe895a0
+[
++eg.com.taman.widget/eg.com.taman.widget.iml,5/9/5978dfe841281cb39f6d45ffc7915f5d07dff88a

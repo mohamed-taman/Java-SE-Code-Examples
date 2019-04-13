@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/module.graph.test/module.graph.test.iml" filepath="$PROJECT_DIR$/module.graph.test/module.graph.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my.cycle.module1/my.cycle.module1.iml" filepath="$PROJECT_DIR$/my.cycle.module1/my.cycle.module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my.cycle.module2/my.cycle.module2.iml" filepath="$PROJECT_DIR$/my.cycle.module2/my.cycle.module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my.module/my.module.iml" filepath="$PROJECT_DIR$/my.module/my.module.iml" />
+    </modules>
+  </component>
+</project>

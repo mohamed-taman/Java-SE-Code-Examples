@@ -1,0 +1,5 @@
+digraph "eg.com.taman.hello" {
+    // Path: /Users/packt/Google Drive/Books Revision & Authoring/Packt Publishing/Authoring/JDK 9 video training/Course/6608_Exercise Files/Volume 1/01_Section 2/Video 01_02_2.6 Code/HelloWorld-Module/mlib/eg.com.taman.hello.jar
+   "eg.com.taman.hello"                               -> "java.io (java.base)";
+   "eg.com.taman.hello"                               -> "java.lang (java.base)";
+}

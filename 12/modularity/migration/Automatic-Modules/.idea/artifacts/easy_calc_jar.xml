@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="easy-calc:jar">
+    <output-path>$PROJECT_DIR$/mlib</output-path>
+    <root id="archive" name="easy-calc.jar">
+      <element id="module-output" name="easy-calc" />
+    </root>
+  </artifact>
+</component>
