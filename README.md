@@ -1,9 +1,13 @@
 # IBM Developer articles - Java theory and practice
 ## Motivation toward Modularity
-### 1- Theory and motivations behind modularity introduced in Java 9+
-### 2- How to design packages and create modules, and the effect on API access (Part 1)
-### 3- How to design packages and create modules, and the effect on API access (Part 2)
-### 4- The difficulties and pitfalls of migrating from Java 8 to Java 9+
+### 1- [Java 9+ modularity: The theory and motivations behind modularity](https://developer.ibm.com/technologies/java/tutorials/java-modularity-1)
+The modular capabilities introduced in Java 9+ will enable you to write more clean and well-architected code, libraries, and systems
+### 2- [Java 9+ modularity: Module basics and rules](https://developer.ibm.com/tutorials/java-modularity-2/)
+Discover the basic mechanisms, tools, and rules that you can use to leverage the modular capabilities of Java 9+ and the JPMS to write more clean and well-architected code, libraries, and systems.
+### 3- [Java 9+ modularity: How to design packages and create modules, Part 1](https://developer.ibm.com/tutorials/java-modularity-3/)
+The Java Platform Module System brings the real meaning of security and tightened encapsulation to Java.
+### 4- [Java 9+ modularity: How to design packages and create modules, Part 2](https://developer.ibm.com/tutorials/java-modularity-4/)
+The Java Platform Module System brings the real meaning of security and tightened encapsulation to Java.
 ## New Java language features & updates and learning tools
 Starting with the major release of Java SE 9+, each new six-month release of the JDK means that the programming language and virtual machine is quickly moving forward in order to cope with the rate of new technology innovation. 
 
